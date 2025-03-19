@@ -36,4 +36,3 @@ contract Calendar {
         emit EventDeleted(msg.sender, date);
     }
 }
-funk
